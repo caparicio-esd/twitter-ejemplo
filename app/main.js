@@ -24,7 +24,7 @@ const initTweetEvents = () => {
 }
 
 const updateEvents = () => {
-    //
+    // werwerwerwerwer
 
 
     renderTweets()
